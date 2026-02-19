@@ -4,6 +4,7 @@ A lightweight Neofetch-inspired system info tool built with Node.js.
 Designed for people who enjoy tinkering with their terminal and want a customizable cross-platform alternative.
 
 =====================================================================================================================
+
 About
 
 LazyFetch is a simple CLI project that prints system information in a clean, terminal-friendly format — similar to neofetch, but written in JavaScript and intended to evolve into a full CLI tool.
@@ -11,6 +12,7 @@ LazyFetch is a simple CLI project that prints system information in a clean, ter
 This project is currently in development.
 
 ======================================================================================================================
+
 Features
 
 Cross-platform (works on Windows, Linux, macOS)
@@ -24,6 +26,7 @@ Simple developer-friendly setup
 Planned full CLI support
 
 ========================================================================================================================
+
 Tech Stack
 
 Node.js
@@ -35,6 +38,7 @@ npm scripts
 Dependencies used: chalk, systeminformation
 
 =========================================================================================================================
+
 Installation
 
 Clone the repository: git clone https://github.com/Lokesh550-code/LazyFetch.git
@@ -54,6 +58,7 @@ Currently runs in development mode:
 npm run dev
 
 =====================================================================================================================
+
 Who is this for?
 
 Anyone who:
