@@ -25,5 +25,5 @@ console.log(`${chalk.redBright.bold('Node version:')} ${osInformation.nodeVersio
 async function dis() {
   const displayInfo = await getInfo();
   console.log(`${chalk.redBright.bold('GPU:')} ${displayInfo.model}`);
-  console.log(`${chalk.redBright.bold('Resolution:')} ${displayInfo.resolutionX} X ${displayInfo.resolutionY}`)
+  // console.log(`${chalk.redBright.bold('Resolution:')} ${displayInfo.resolutionX} X ${displayInfo.resolutionY}`)
 }
